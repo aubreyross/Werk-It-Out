@@ -21,7 +21,7 @@ router.get("/api/workouts/range", (req, res) => {
       });
   });
   
-  router.post("/api/workouts/bulk", ({ body }, res) => {
+  router.post("/api/workouts", ({ body }, res) => {
     Workout.create(body)
       .then(dbworkout => {
         res.json(dbworkout);
