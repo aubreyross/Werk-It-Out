@@ -24,8 +24,8 @@ A consumer will reach their fitness goals more quickly when they track their wor
 * Heroku
 
 ## URLs
-* Deployed: 
-* Code:
+* Deployed: https://werk-it-out.herokuapp.com/
+* Code: https://github.com/aubreyross/Werk-It-Out
 
 ## Preview
 
