@@ -4,9 +4,6 @@
 ## User Story
 As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
-## Business Context
-A consumer will reach their fitness goals more quickly when they track their workout progress.
-
 ## Installation
 * npm install
 * npm run seed 
@@ -35,6 +32,7 @@ A consumer will reach their fitness goals more quickly when they track their wor
 
 ## Resources
 * Student Mini Project
+* Ask BCS learning assitant, and their help with deployment issues!
 * https://coding-boot-camp.github.io/full-stack/mongodb/how-to-set-up-mongodb-atlas
 * https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-heroku-and-mongodb-atlas
 * https://docs.mongodb.com/manual/reference/connection-string/
