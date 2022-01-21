@@ -29,7 +29,14 @@ A consumer will reach their fitness goals more quickly when they track their wor
 
 ## Preview
 
+![Screen Shot 2022-01-20 at 10 58 53 PM](https://user-images.githubusercontent.com/87405979/150468942-91f1388a-8bba-419d-8db6-3d019abe05c0.png)
+
+
+
 
 
 ## Resources
 * Student Mini Project
+* https://coding-boot-camp.github.io/full-stack/mongodb/how-to-set-up-mongodb-atlas
+* https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-heroku-and-mongodb-atlas
+* https://docs.mongodb.com/manual/reference/connection-string/
