@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 const db = require('../models');
 
+//connects to mongoDB database
 mongoose.connect(
   process.env.MONGODB_URI || "mongodb://localhost/werk-it-out", 
   {

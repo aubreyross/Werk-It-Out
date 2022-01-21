@@ -33,8 +33,6 @@ A consumer will reach their fitness goals more quickly when they track their wor
 
 
 
-
-
 ## Resources
 * Student Mini Project
 * https://coding-boot-camp.github.io/full-stack/mongodb/how-to-set-up-mongodb-atlas

@@ -2,12 +2,12 @@ const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
 
+//creates new schema in mongoDB containing the respective properties
 const WorkoutSchema = new Schema({
     day: {
       type: Date,
-      default: Date.now
+      default: Date.now,
     },
-
     exercises: [
       {
   
@@ -20,12 +20,9 @@ const WorkoutSchema = new Schema({
           trim: true,
           required: "Name of workout"
         },
-        date: {
-          type: Date,
-          default: new Date().setDate
-        },
         duration: {
-          type: Number
+          type: Number,
+          required: "Duration of workout"
         },
         distance: {
           type: Number
